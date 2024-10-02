@@ -172,6 +172,7 @@ font-family:Georgia, 'Times New Roman', Times, serif;
 }
 body .nav{
    width: 100%;
+    background-color: #891D1A;
 }
     body .nav ul {
         list-style: none; /* Eliminar el estilo de viñeta */
