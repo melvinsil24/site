@@ -81,7 +81,7 @@ align-content: center;
 }
 
 .opciones .carrito{
-    width: ;
+    width: 300px;
     text-align: center;
     border: 0px solid #891D1A;
     border-radius: 10px;
@@ -176,8 +176,7 @@ font-family:Georgia, 'Times New Roman', Times, serif;
         margin: 0;
         text-align: center;
         background-color: #891D1A;
-        display: flex;
-        flex-direction: row-reverse ;
+        display: inline-block;
         width: auto;
     }
 
