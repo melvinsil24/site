@@ -147,6 +147,7 @@ body .Titulo2{
     margin-top: 2%;
     margin-bottom: 5%;
     padding: 70px 100px;
+   width: auto;
 }
 
 .btn input{
